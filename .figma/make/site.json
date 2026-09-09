@@ -1,0 +1,10 @@
+{
+  "description": "A secure, multi-role CMS and portfolio platform enabling content sharing, e-commerce, client support, and collaboration for tech professionals and creatives.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
